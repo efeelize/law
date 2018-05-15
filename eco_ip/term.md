@@ -203,7 +203,120 @@
 # congestion externalities
 拥塞外部性
 
+# quality - adjusted
+质量调整的
 
+# 边缘企业
+fringe firms
+
+# totally differentiating
+完全微分
+
+# acquisition cost
+取得成本
+
+# substantial cost
+替代成本
+
+# revenue enhancing
+提高收入
+
+# cost-enhacing 
+提高成本
+
+# residual demand
+剩余需求
+
+# duplication 重复
+
+# inadvertent infringement
+非故意侵权
+
+# allocative effects
+分配效果
+
+# return unused portion for a refund
+未用部分，退货返款
+
+# self-addressed envelope enclosed
+内附信件，载有地址
+
+# originality
+独创性
+
+# novelty
+新颖性
+
+# minimal requirement of originality
+最低程度的独创性要求
+
+# verbatim
+一字不差
+
+# mariginal deterrence
+边际威慑效果
+
+# sonnet
+十四行诗
+
+# rhymed souplet
+押韵对句
+
+# ideas with minimal expression
+最低表达的思想
+
+# baffling
+难以捉摸的
+
+# filmnoir
+黑色幽默电影
+
+# meter
+格律
+
+# dactylic hexameter
+六韵步组成的诗行
+
+# functional expression
+功能性表达
+
+# money-back guaranty
+保证质量，否则退款
+
+# intermediate copying
+间接复制
+
+# reverse engineering
+反向工程
+
+# anticompetitive effect
+反竞争的结果
+
+# incremental incentive
+递增激励
+
+# fine-tuned
+微调
+
+# blanket protection
+概括式保护
+
+# preemption provision
+优先条款
+
+# cost-internalization rationale
+成本内部化
+
+# incremental originality
+增量独创性
+
+# imperfect substitute
+不完全替代品
+
+# fidelity
+逼真度
+
+# 
 
 
 
