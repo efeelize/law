@@ -58,6 +58,17 @@ That part of the request, in the form attached to the present Convention, which 
 and/or email address of the addressee; or
 (e) uploaded to any secured online repository that the parties have agreed to use.
 
+***Q:被申请人可以拒绝接受仲裁通知吗？***
+> 《HKIAC机构仲裁规则2018》4.1 提請仲裁的一方當事人（即“申請人”）應向 HKIAC和其他當事人（即“被申請人”）傳送 仲裁通知。
+
+> 《HKIAC机构仲裁规则2018》4.2 仲裁應視自HKIAC收到仲裁通知之日起啟動。此日期應按第3.1至3.5款的規定確定。
+
+> 《HKIAC机构仲裁规则2018》3.2 若經合理努力仍不能按照第3.1款的規定傳送書面通訊的，則在向收件人最後為人所知的地址、傳真號碼和/或電子郵件地址發 送，並提供試圖傳送的記錄後，書面通訊即視為已被收到。
+
+- 启动仲裁的通知由申请人完成，如果合同中约定送达至某一具体地址、邮箱，则不存在拒绝接受的问题；
+
+- HKIAC的送达规则适用“视为送达”，只要把仲裁通知送达至被申请人为人所知的地点，就视为送达；如果被申请人有拒绝送达的记录，则仲裁通知同样视为收到。
+
 # 2.期限
 # 1）诉讼
 > 国内诉讼法规定
